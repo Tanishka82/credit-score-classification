@@ -25,8 +25,7 @@ credit-score-classification/
 ├── Credit_Score_Prediction.ipynb    # Main notebook
 ├── requirements.txt                 # Python dependencies
 ├── README.md                        # Project overview
-├── model/                           # Trained model files 
-└── data/                            # Sample data 
+                          
 ```
 
 ---
